@@ -14,11 +14,11 @@ author: mranderson
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+This week, our group members (Kelin Chen, Chang Zhao and Zhuohang Song) met with our advisor Xiaobang Wang in his office and we determined the research direction of our group project.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> The meeting lasted about half an hour, during which our mentor gave us some suggestions and also allowed us to choose our own research path.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+After the meeting, the team members had a second internal discussion. After repeated consideration and discussion, we decided to design a **railway-multi-terrain dual-purpose vehicle** as the goal and carry out research activities for the graduation project.
 
 <!--page-->
 
