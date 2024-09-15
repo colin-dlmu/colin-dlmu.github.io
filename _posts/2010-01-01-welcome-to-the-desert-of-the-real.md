@@ -4,8 +4,7 @@ layout: post
 title: Welcome to the DLMU
 subtitle: 'The test document'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  This is a test document. 这是一个测试帖
 image: >-
   https://res.cloudinary.com/ddooy8irs/image/upload/v1726391171/tyqrfseow4srnsl0qbtk.jpg
 optimized_image: >-
