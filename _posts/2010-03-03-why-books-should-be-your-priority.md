@@ -40,8 +40,7 @@ After the meeting, the team members had a second internal discussion. After repe
 
 <!--page-->
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
+This is Dr. Xiaobang Wang, whose office located in Jidian Building.
 
 
 
