@@ -9,7 +9,7 @@ description: >-
 image: >-
   https://res.cloudinary.com/ddooy8irs/image/upload/v1725851051/hyhgyuqfirbc4rcmnbz8.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://res.cloudinary.com/ddooy8irs/image/upload/v1726391098/wd1ol7gm8mdogumqbo34.jpg
 category: blog
 tags:
   - welcome
