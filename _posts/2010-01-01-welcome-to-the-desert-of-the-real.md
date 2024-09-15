@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/ddooy8irs/image/upload/v1725851051/hyhgyuqfirbc4rcmnbz8.jpg
+  https://res.cloudinary.com/ddooy8irs/image/upload/v1726391171/tyqrfseow4srnsl0qbtk.jpg
 optimized_image: >-
   https://res.cloudinary.com/ddooy8irs/image/upload/v1726391098/wd1ol7gm8mdogumqbo34.jpg
 category: blog
