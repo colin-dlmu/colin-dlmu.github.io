@@ -4,12 +4,13 @@ layout: post
 title: Week2
 subtitle: What we will do in the week2.
 description: Five-page Introduction Slides
-image: https://res.cloudinary.com/ddooy8irs/image/upload/v1727604915/ifb0ugubgc9nufjdqnke.png
-optimized_image: https://res.cloudinary.com/ddooy8irs/image/upload/v1727605002/om0msmat5s3zjsz2qyej.png
+image: https://res.cloudinary.com/ddooy8irs/image/upload/v1727605002/om0msmat5s3zjsz2qyej.png
+optimized_image: https://res.cloudinary.com/ddooy8irs/image/upload/v1727604915/ifb0ugubgc9nufjdqnke.png
+
 tags:
-  - css
-  - tips
-author: mranderson
+  - week2
+  - slides
+author: Kelin Chen and team members
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
