@@ -15,7 +15,8 @@ author: Kelin Chen and team members
 
 ![placeholder](https://res.cloudinary.com/ddooy8irs/image/upload/v1727605368/tyfy6ek9d9gsa08g9yja.png)
 ![placeholder](https://res.cloudinary.com/ddooy8irs/image/upload/v1727605368/biwushrafjfhanep3qt2.png)
-![placeholder](https://placehold.it/200x200 "Small example image")
+![placeholder](https://res.cloudinary.com/ddooy8irs/image/upload/v1727664958/dorlbosjc3huo1435r3w.png)
+![placeholder](https://res.cloudinary.com/ddooy8irs/image/upload/v1727664958/q2ukk87qsjsbl7ko0tfw.png)
 
 
 
